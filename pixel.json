@@ -1,6 +1,6 @@
 {
     "structures": {
-        "heart": {
+        "bubats": {
             "priority": 2,
             "canvases_enabled": [3],
             "pixels": [{
