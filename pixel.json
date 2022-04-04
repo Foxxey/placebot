@@ -7,7 +7,7 @@
                 "priority": 256,
                 "x": 270,
                 "y": 179,
-                "color": 28
+                "color": 12
             }, {
                 "priority": 256,
                 "x": 271,
@@ -22,7 +22,7 @@
                 "priority": 256,
                 "x": 273,
                 "y": 179,
-                "color": 28
+                "color": 12
             }, {
                 "priority": 256,
                 "x": 274,
@@ -77,12 +77,12 @@
                 "priority": 256,
                 "x": 270,
                 "y": 181,
-                "color": 0
+                "color": 27
             }, {
                 "priority": 256,
                 "x": 271,
                 "y": 181,
-                "color": 25
+                "color": 2
             }, {
                 "priority": 256,
                 "x": 272,
@@ -112,7 +112,7 @@
                 "priority": 256,
                 "x": 270,
                 "y": 182,
-                "color": 28
+                "color": 12
             }, {
                 "priority": 256,
                 "x": 271,
@@ -122,17 +122,17 @@
                 "priority": 256,
                 "x": 272,
                 "y": 182,
-                "color": 26
+                "color": 5
             }, {
                 "priority": 256,
                 "x": 273,
                 "y": 182,
-                "color": 4
+                "color": 5
             }, {
                 "priority": 256,
                 "x": 274,
                 "y": 182,
-                "color": 26
+                "color": 5
             }, {
                 "priority": 256,
                 "x": 275,
@@ -217,9 +217,5 @@
         }
     },
     "priorities": {
-        "0": 0,
-        "1": 1,
-        "2": 5,
-        "3": 10
     }
 }
